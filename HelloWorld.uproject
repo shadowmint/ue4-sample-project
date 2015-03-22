@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "45851C14-1F4B-E65A-323B-FDBF1E7383FA",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "HelloWorld",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
