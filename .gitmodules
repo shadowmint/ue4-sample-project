@@ -1,0 +1,3 @@
+[submodule "Plugins/TestPlugin"]
+	path = Plugins/TestPlugin
+	url = git@github.com:shadowmint/ue4-static-plugin.git
