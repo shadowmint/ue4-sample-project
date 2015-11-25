@@ -9,7 +9,7 @@ public class HelloWorldEditorTarget : TargetRules
 	public HelloWorldEditorTarget(TargetInfo Target)
 	{
 		Type = TargetType.Editor;
-		AdditionalPlugins.Add("HelloWorldPlugin");
+		AdditionalPlugins.Add("TestPlugin");
 		Dev.Build.Log("Message Here");
 		//PublicDependencyModuleNames.AddRange(new string[] { "TestPlugin" });
 		// throw new NotImplementedException();
